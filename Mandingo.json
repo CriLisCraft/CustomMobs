@@ -1,0 +1,55 @@
+{
+    CustomName: "Mandingo",
+    CustomNameVisible: 1,
+    IsVillager: 1,
+    IsBaby: 1,
+    Equipment: [{
+                id: diamond_sword,
+                Count: 1,
+                tag: {
+                    HideFlags: 5,
+                    Unbreakable: 1,
+                    display: {
+                        Name: Mandingo 's Sword,Lore:[Ye who holds this sword, has slain the great.]},ench:[{id:16,lvl:10},{id:19,lvl:3},{id:20,lvl:3},{id:21,lvl:5}]}},{id:diamond_boots,Count:1,tag:{HideFlags:5,Unbreakable:1,display:{Name:Mandingo'
+                        s Boots
+                    },
+                    ench: [{
+                        id: 0,
+                        lvl: 10
+                    }, {
+                        id: 2,
+                        lvl: 10
+                    }, {
+                        id: 7,
+                        lvl: 10
+                    }, {
+                        id: 8,
+                        lvl: 10
+                    }]
+                }
+            }, {
+                id: diamond_leggings,
+                Count: 1,
+                tag: {
+                    HideFlags: 5,
+                    Unbreakable: 1,
+                    display: {
+                        Name: Mandingo 's Leggings},ench:[{id:0,lvl:10},{id:7,lvl:10}]}},{id:diamond_chestplate,Count:1,tag:{HideFlags:5,Unbreakable:1,display:{Name:Mandingo'
+                        s Chestplate
+                    },
+                    ench: [{
+                        id: 0,
+                        lvl: 10
+                    }, {
+                        id: 7,
+                        lvl: 10
+                    }]
+                }
+            }, {
+                id: diamond_helmet,
+                Count: 1,
+                tag: {
+                    HideFlags: 5,
+                    Unbreakable: 1,
+                    display: {
+                        Name: Mandingo 's Helmet},ench:[{id:0,lvl:10},{id:7,lvl:10}]}}],Attributes:[{Name:generic.maxHealth,Base:200},{Name:zombie.spawnReinforcements,Base:0.8F},{Name:generic.attackDamage,Base:10},{Name:generic.followRange,Base:100},{Name:generic.knockbackResistance,Base:100}]}
